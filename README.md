@@ -1,16 +1,13 @@
-# news-sentiment-analysis-and-summarisation
-News sentiment analysis and summarisation
 
-# Stock Sentiment Analysis with SBERT and Random Forest
-
-Short one-line description: An AI-driven system to analyze market sentiment from news articles using SBERT embeddings and a Random Forest classifier to inform stock price predictions.
+# News sentiment analysis and summarisation
+An AI-driven system to analyze market sentiment from news articles using SBERT embeddings and a Random Forest classifier to inform stock price predictions.
 
 ## Overview
 This project develops an AI-driven sentiment analysis system designed to process and analyze daily news articles related to a specific NASDAQ-listed company. The goal is to gauge market sentiment and integrate this information to enhance the accuracy of stock price predictions and optimize investment strategies. The system leverages advanced natural language processing (NLP) techniques, specifically SBERT (Sentence-BERT) embeddings, combined with machine learning models like Random Forest for multi-class sentiment classification.
 
 ## Features
 - **Data Ingestion**: Processes historical daily news, stock prices, and trade volumes.
-- **Sentiment Classification**: Utilizes SBERT embeddings to convert news text into numerical representations for sentiment analysis.
+- **Sentiment Classification**: Utilizes Word2Vec, Glove, SBERT embeddings to convert news text into numerical representations for sentiment analysis.
 - **Machine Learning Models**: Implements and evaluates various classification models (Decision Tree, Gradient Boosting, Random Forest) for sentiment prediction.
 - **Hyperparameter Tuning**: Employs `GridSearchCV` to optimize model performance and address overfitting.
 - **Cross-Validation**: Uses `StratifiedKFold` to provide a more robust evaluation of model generalization.
