@@ -51,8 +51,8 @@ The project follows a typical machine learning pipeline:
 ## Installation
 1.  **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone <[(https://github.com/samuelmugisha/news-sentiment-analysis-and-summarisation)]>
+    cd <news-sentiment-analysis-and-summarisation>
     ```
 2.  **Install dependencies**:
     ```bash
