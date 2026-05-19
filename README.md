@@ -15,7 +15,8 @@ This project develops an AI-driven sentiment analysis system designed to process
 
 
 ## 🧪 Demo / Screenshots
-<center> <img src="data/SystemDiagram.jpg" alt="System Design Diagram" width="900"></center>
+<center> <img src="data/SystemDiagramS.jpg" alt="System Design Diagram" width="900"></center>
+<center> <img src="data/SystemDiagramB.jpg" alt="System Design Diagram" width="900"></center>
 
 
 ## 📌 Architecture
