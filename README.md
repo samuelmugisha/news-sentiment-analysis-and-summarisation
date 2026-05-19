@@ -5,13 +5,14 @@ An AI-driven system to analyze market sentiment from news articles using SBERT e
 ## Overview
 This project develops an AI-driven sentiment analysis system designed to process and analyze daily news articles related to a specific NASDAQ-listed company. The goal is to gauge market sentiment and integrate this information to enhance the accuracy of stock price predictions and optimize investment strategies. The system leverages advanced natural language processing (NLP) techniques, specifically SBERT (Sentence-BERT) embeddings, combined with machine learning models like Random Forest for multi-class sentiment classification.
 
-## Features
-- **Data Ingestion**: Processes historical daily news, stock prices, and trade volumes.
-- **Sentiment Classification**: Utilizes Word2Vec, Glove, SBERT embeddings to convert news text into numerical representations for sentiment analysis.
-- **Machine Learning Models**: Implements and evaluates various classification models (Decision Tree, Gradient Boosting, Random Forest) for sentiment prediction.
-- **Hyperparameter Tuning**: Employs `GridSearchCV` to optimize model performance and address overfitting.
-- **Cross-Validation**: Uses `StratifiedKFold` to provide a more robust evaluation of model generalization.
-- **Performance Evaluation**: Measures model effectiveness using `f1_weighted`, accuracy, precision, and recall, with a focus on mitigating overfitting.
+## ✨ Features
+- **📰 Data Ingestion**: Processes historical daily news, stock prices, and trade volumes.
+- **📊 Sentiment Classification**: Utilizes Word2Vec, Glove, SBERT embeddings to convert news text into numerical representations for sentiment analysis.
+- **📈 Machine Learning Models**: Implements and evaluates various classification models (Decision Tree, Gradient Boosting, Random Forest) for sentiment prediction.
+- **⚡ Hyperparameter Tuning**: Employs `GridSearchCV` to optimize model performance and address overfitting.
+- **🤖 Cross-Validation**: Uses `StratifiedKFold` to provide a more robust evaluation of model generalization.
+- **✍️ Performance Evaluation**: Measures model effectiveness using `f1_weighted`, accuracy, precision, and recall, with a focus on mitigating overfitting.
+
 
 ## Demo / Screenshots
 *(To be added: Screenshots of the notebook, confusion matrices, performance comparison tables, and any visualizations from the EDA section would go here.)*
