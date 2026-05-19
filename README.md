@@ -1,8 +1,8 @@
 
-#🚀 News sentiment analysis and summarisation
+# 🚀 News sentiment analysis and summarisation
 An AI-driven system to analyze market sentiment from news articles using SBERT embeddings and a Random Forest classifier to inform stock price predictions.
 
-##💡 Overview
+## 💡 Overview
 This project develops an AI-driven sentiment analysis system designed to process and analyze daily news articles related to a specific NASDAQ-listed company. The goal is to gauge market sentiment and integrate this information to enhance the accuracy of stock price predictions and optimize investment strategies. The system leverages advanced natural language processing (NLP) techniques, specifically SBERT (Sentence-BERT) embeddings, combined with machine learning models like Random Forest for multi-class sentiment classification.
 
 ## ✨ Features
@@ -88,6 +88,6 @@ The project follows a typical machine learning pipeline:
 -   **Ensemble Methods**: Develop ensemble models that combine predictions from multiple classifiers to potentially improve robustness and accuracy.
 
 
-##📰 Author
+## 📰 Author
 [Samuel Mugisha D.C | Data Scientist | A.I Engineer]
 ```
