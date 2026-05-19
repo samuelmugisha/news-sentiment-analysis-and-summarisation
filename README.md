@@ -1,7 +1,6 @@
 # news-sentiment-analysis-and-summarisation
 News sentiment analysis and summarisation
 
-```markdown
 # Stock Sentiment Analysis with SBERT and Random Forest
 
 Short one-line description: An AI-driven system to analyze market sentiment from news articles using SBERT embeddings and a Random Forest classifier to inform stock price predictions.
