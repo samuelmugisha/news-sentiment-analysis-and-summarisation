@@ -15,7 +15,8 @@ This project develops an AI-driven sentiment analysis system designed to process
 
 
 ## 🧪 Demo / Screenshots
-*(To be added: Screenshots of the notebook, confusion matrices, performance comparison tables, and any visualizations from the EDA section would go here.)*
+<center> <img src="data/SystemDiagram.jpg" alt="System Design Diagram" width="900"></center>
+
 
 ## 📌 Architecture
 The project follows a typical machine learning pipeline:
