@@ -87,15 +87,6 @@ The project follows a typical machine learning pipeline:
 -   **Time-Series Analysis**: Incorporate the temporal aspect of news and stock prices more deeply, potentially using recurrent neural networks (RNNs) or transformer-based time-series models.
 -   **Ensemble Methods**: Develop ensemble models that combine predictions from multiple classifiers to potentially improve robustness and accuracy.
 
-## Project Structure
-```
-. # Root directory of the project
-├── stock_news.csv # Dataset file
-├── glove.6B.100d.txt # GloVe pre-trained embeddings
-├── glove.6B.100d.txt.word2vec # Converted GloVe format
-├── stock_sentiment_analysis.ipynb # Jupyter notebook with all analysis and code
-└── README.md # This README file
-```
 
 ## Author
 [Samuel Mugisha D.C]
