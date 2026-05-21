@@ -91,5 +91,5 @@ The project follows a typical machine learning pipeline:
 
 
 ## 📰 Author
-[Samuel Mugisha D.C | Data Scientist | A.I Engineer]
+[Samuel Mugisha D.C | Data Scientist | A.I Engineer](https://www.linkedin.com/in/samuelmugishadc/)
 ```
