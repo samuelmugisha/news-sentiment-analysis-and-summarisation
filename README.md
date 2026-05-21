@@ -64,7 +64,7 @@ The project follows a typical machine learning pipeline:
 
 ## 👨‍💻 Usage
 1.  **Load the dataset**: Ensure `stock_news.csv` is accessible (e.g., in Google Drive if using Colab).
-2.  **Run the notebook cells sequentially**: The notebook `stock_sentiment_analysis.ipynb` contains all steps from data loading to model evaluation.
+2.  **Run the notebook cells sequentially**: The notebook `stock_sentiment_analysis.ipynb` contains all steps from data loading to model evaluation. The notebook `NewsSummarisation.ipynb` contains all steps for News Summarisation. 
 3.  **Explore EDA**: Review the univariate and bivariate analysis to understand data distributions and relationships.
 4.  **Experiment with models**: Observe the performance of different embedding techniques (Word2Vec, GloVe, SBERT) and classifiers.
 5.  **Analyze tuning results**: Focus on the `GridSearchCV` output for the tuned SBERT Random Forest model and the cross-validation results.
