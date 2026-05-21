@@ -90,6 +90,6 @@ The project follows a typical machine learning pipeline:
 -   **Ensemble Methods**: Develop ensemble models that combine predictions from multiple classifiers to potentially improve robustness and accuracy.
 
 
-## 📰 Author
+## 👤 Author 
 [Samuel Mugisha D.C | ML Engineer | AI Engineer](https://www.linkedin.com/in/samuelmugishadc/)
 ```
